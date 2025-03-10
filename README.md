@@ -1,2 +1,2 @@
 # workshop
-Demo
+This is a workshop about Git :) 
